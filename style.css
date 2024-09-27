@@ -146,7 +146,7 @@ h2 {
     background-color: #beff1b;
 }
 
-.arrows button :first-child img {
+.arrows button:first-child img {
     transform:  scale(-1);
 }
 
